@@ -1,0 +1,188 @@
+[
+  {
+    "machine_id": "HP-312-03",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-20T13:00:00Z",
+    "alert_text": "Hydraulic press HP-312-03 generated an emergency alert at 13:00. Bearing temperature reached 96 C, vibration amplitude is 8.4 mm/s, motor current rose to 118 A, and coolant pressure fell to 32 psi. A scraping noise is audible from the drive housing and the pressure relief valve is cycling rapidly. Spare bearing kit stock is 1 unit, seal kit stock is 0, and filter stock is 4. Immediate mechanical inspection is required to prevent a total shutdown."
+  },
+  {
+    "machine_id": "CN-204-11",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-20T14:00:00Z",
+    "alert_text": "Conveyor CN-204-11 reported belt misalignment at 14:00. Belt tracking drifted 18 mm to the operator side and motor current rose to 42 A. Inspection of the idler assembly is required."
+  },
+  {
+    "machine_id": "PU-118-07",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "alert_text": "Cooling pump PU-118-07 generated a low-flow alert at 15:00. Discharge pressure fell to 2.1 bar and casing temperature reached 78 C. Check the suction strainer and mechanical seal."
+  },
+  {
+    "machine_id": "CM-445-02",
+    "site": "Steelworks Plant A",
+    "timestamp": "2026-09-20T16:00:00Z",
+    "alert_text": "Compressor CM-445-02 reported high discharge temperature at 16:00. Discharge temperature reached 104 C and oil pressure fell to 2.8 bar. Inspect the oil separator and cooling circuit."
+  },
+  {
+    "machine_id": "RO-901-05",
+    "site": "Assembly Hall",
+    "timestamp": "2026-09-20T17:00:00Z",
+    "alert_text": "Robot RO-901-05 reported position deviation on axis 4 at 17:00. Repeatability error reached 0.9 mm and the gearbox produced intermittent noise. Calibration and gearbox inspection are required."
+  },
+  {
+    "machine_id": "MX-630-09",
+    "site": "Machine Shop",
+    "timestamp": "2026-09-20T18:00:00Z",
+    "alert_text": "CNC mill MX-630-09 generated a spindle vibration alert at 18:00. Vibration reached 6.2 mm/s at 7200 rpm and coolant flow fell below target. Inspect spindle bearings and coolant filtration."
+  },
+  {
+    "machine_id": "HP-312-03",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-21T08:00:00Z",
+    "alert_text": "Hydraulic press HP-312-03 reported a coolant pressure warning at 08:00. Pressure fell to 35 psi while bearing temperature reached 88 C. Check coolant hoses and monitor the drive bearing."
+  },
+  {
+    "machine_id": "CN-204-11",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-21T09:00:00Z",
+    "alert_text": "Conveyor CN-204-11 generated a motor overload alert at 09:00. Motor current reached 48 A and belt speed fluctuated. Inspect the drive motor, gearbox, and belt tension."
+  },
+  {
+    "machine_id": "PU-118-07",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-21T10:00:00Z",
+    "alert_text": "Cooling pump PU-118-07 reported elevated temperature at 10:00. Pump casing temperature reached 84 C and vibration measured 5.1 mm/s. Inspect alignment and bearing lubrication."
+  },
+  {
+    "machine_id": "CM-445-02",
+    "site": "Steelworks Plant A",
+    "timestamp": "2026-09-21T11:00:00Z",
+    "alert_text": "Compressor CM-445-02 reported intake restriction at 11:00. Differential pressure reached 1.7 bar and airflow decreased. Replace the intake filter and inspect the duct."
+  },
+  {
+    "machine_id": "RO-901-05",
+    "site": "Assembly Hall",
+    "timestamp": "2026-09-21T12:00:00Z",
+    "alert_text": "Robot RO-901-05 reported a gripper sensor fault at 12:00. The end-effector proximity signal dropped intermittently during pick operations. Inspect wiring and replace the sensor if necessary."
+  },
+  {
+    "machine_id": "MX-630-09",
+    "site": "Machine Shop",
+    "timestamp": "2026-09-21T13:00:00Z",
+    "alert_text": "CNC mill MX-630-09 reported low coolant flow at 13:00. Flow measured 8 L/min against a 15 L/min target and coolant temperature reached 39 C. Inspect the filter and pump."
+  },
+  {
+    "machine_id": "HP-312-03",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-21T14:00:00Z",
+    "alert_text": "Hydraulic press HP-312-03 reported drive vibration at 14:00. Vibration reached 7.1 mm/s and a scraping noise was audible from the housing. Stop for mechanical inspection."
+  },
+  {
+    "machine_id": "CN-204-11",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "alert_text": "Conveyor CN-204-11 reported gearbox oil temperature at 15:00. Gearbox temperature reached 92 C and oil level was below the inspection mark. Check for leaks and replenish oil."
+  },
+  {
+    "machine_id": "PU-118-07",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-21T16:00:00Z",
+    "alert_text": "Cooling pump PU-118-07 reported seal leakage at 16:00. A visible drip was found at the mechanical seal and discharge pressure fluctuated. Schedule seal replacement."
+  },
+  {
+    "machine_id": "CM-445-02",
+    "site": "Steelworks Plant A",
+    "timestamp": "2026-09-21T17:00:00Z",
+    "alert_text": "Compressor CM-445-02 reported low oil level at 17:00. Oil level was 20 percent below nominal and discharge temperature reached 98 C. Check for leaks and inspect the separator."
+  },
+  {
+    "machine_id": "RO-901-05",
+    "site": "Assembly Hall",
+    "timestamp": "2026-09-21T18:00:00Z",
+    "alert_text": "Robot RO-901-05 reported servo overload on axis 2 at 18:00. Motor current peaked at 16 A during acceleration. Inspect axis lubrication and mechanical resistance."
+  },
+  {
+    "machine_id": "MX-630-09",
+    "site": "Machine Shop",
+    "timestamp": "2026-09-22T08:00:00Z",
+    "alert_text": "CNC mill MX-630-09 reported spindle temperature at 08:00. Spindle temperature reached 76 C and vibration measured 4.8 mm/s. Verify bearing condition and tooling balance."
+  },
+  {
+    "machine_id": "HP-312-03",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-22T09:00:00Z",
+    "alert_text": "Hydraulic press HP-312-03 generated a relief valve cycling alert at 09:00. Hydraulic pressure oscillated between 145 and 165 bar. Inspect the relief valve and accumulator."
+  },
+  {
+    "machine_id": "CN-204-11",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-22T10:00:00Z",
+    "alert_text": "Conveyor CN-204-11 reported a belt slip at 10:00. Belt speed fell by 12 percent while motor current increased to 45 A. Check belt tension and pulley condition."
+  },
+  {
+    "machine_id": "PU-118-07",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-22T11:00:00Z",
+    "alert_text": "Cooling pump PU-118-07 reported suction pressure loss at 11:00. Suction pressure fell to 0.6 bar and pump vibration reached 4.4 mm/s. Inspect the inlet line and strainer."
+  },
+  {
+    "machine_id": "CM-445-02",
+    "site": "Steelworks Plant A",
+    "timestamp": "2026-09-22T12:00:00Z",
+    "alert_text": "Compressor CM-445-02 reported high vibration at 12:00. Vibration reached 7.0 mm/s near the coupling and the unit entered protective shutdown. Inspect coupling alignment."
+  },
+  {
+    "machine_id": "RO-901-05",
+    "site": "Assembly Hall",
+    "timestamp": "2026-09-22T13:00:00Z",
+    "alert_text": "Robot RO-901-05 reported calibration drift at 13:00. TCP position error reached 1.2 mm after homing. Recalibrate the robot and inspect axis 4 backlash."
+  },
+  {
+    "machine_id": "MX-630-09",
+    "site": "Machine Shop",
+    "timestamp": "2026-09-22T14:00:00Z",
+    "alert_text": "CNC mill MX-630-09 reported a tool changer timeout at 14:00. The tool carousel failed to reach its position within 8 seconds. Inspect the pneumatic actuator and position sensor."
+  },
+  {
+    "machine_id": "HP-312-03",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "alert_text": "Hydraulic press HP-312-03 reported high bearing temperature at 15:00. Bearing temperature reached 94 C and motor current rose to 112 A. Isolate the press and inspect the bearing."
+  },
+  {
+    "machine_id": "CN-204-11",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-22T16:00:00Z",
+    "alert_text": "Conveyor CN-204-11 reported an idler bearing temperature alert at 16:00. Temperature reached 86 C and audible rumbling was detected. Inspect and lubricate the idler bearings."
+  },
+  {
+    "machine_id": "PU-118-07",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-22T17:00:00Z",
+    "alert_text": "Cooling pump PU-118-07 reported discharge pressure fluctuation at 17:00. Pressure varied from 2.0 to 3.4 bar during steady demand. Inspect the impeller and pressure control valve."
+  },
+  {
+    "machine_id": "CM-445-02",
+    "site": "Steelworks Plant A",
+    "timestamp": "2026-09-22T18:00:00Z",
+    "alert_text": "Compressor CM-445-02 reported a separator differential pressure warning at 18:00. Differential pressure reached 1.9 bar and oil carryover increased. Replace the separator element."
+  },
+  {
+    "machine_id": "RO-901-05",
+    "site": "Assembly Hall",
+    "timestamp": "2026-09-23T08:00:00Z",
+    "alert_text": "Robot RO-901-05 reported axis 4 backlash at 08:00. Position error reached 0.8 mm and gearbox noise increased during deceleration. Schedule gearbox inspection."
+  },
+  {
+    "machine_id": "MX-630-09",
+    "site": "Machine Shop",
+    "timestamp": "2026-09-23T09:00:00Z",
+    "alert_text": "CNC mill MX-630-09 generated an emergency spindle alert at 09:00. Vibration reached 8.0 mm/s and spindle temperature reached 82 C. Stop machining and inspect the spindle bearings."
+  },
+  {
+    "machine_id": "HP-312-03",
+    "site": "Steelworks Plant B",
+    "timestamp": "2026-09-23T10:00:00Z",
+    "alert_text": "Hydraulic press HP-312-03 reported low coolant pressure at 10:00. Pressure fell to 30 psi and the pressure relief valve cycled rapidly. Inspect the coolant circuit before returning the press to service."
+  }
+]
